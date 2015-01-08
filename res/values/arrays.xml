@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="more_menu">
+        <item>新建文件夹</item>
+        <item>发送</item>
+        <item>收藏</item>
+        <item>重命名</item>
+        <item>详情</item>
+        <item>压缩</item>
+    </string-array>
+</resources>

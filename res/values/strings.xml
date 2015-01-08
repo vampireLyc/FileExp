@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FileCat</string>
+    <string name="bottom">底部菜单</string>
+    <string name="copy">复制</string>
+    <string name="paste">粘贴</string>
+    <string name="cut">剪切</string>
+    <string name="delete">删除</string>
+    <string name="cancel">取消</string>
+    <string name="more">更多</string>
+    <string name="all">全选</string>
+    <string name="confirm">确定</string>
+    <string name="rename">重命名</string>
+    <string name="newFolder">新建文件夹</string>
+    <string name="hint_input_name">请输入文件名</string>
+    <string name="file_info">文件详情</string>
+
+</resources>
