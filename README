@@ -6,4 +6,8 @@ change online
 change local
 change local on first-branch
 change local on first-branch at 2
+<<<<<<< HEAD
 change online on first-branch at 1
+=======
+change local on master at 1
+>>>>>>> refs/remotes/origin/master
