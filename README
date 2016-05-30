@@ -12,3 +12,8 @@ change online on first-branch at 1
 change local on master at 1
 >>>>>>> refs/remotes/origin/master
 change online on master at 2
+change online on master at 2:
+**********************************
+==================================
+__________________________________
+++++++++++++++++++++++++++++++++++
