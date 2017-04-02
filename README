@@ -1,25 +1,2 @@
 Android文件管理器
 开发工具：Eclipse
-备注：整个项目
-Android SDK版本：暂空
-change online
-change local
-change local on first-branch
-change local on first-branch at 2
-<<<<<<< HEAD
-change online on first-branch at 1
-=======
-change local on master at 1
->>>>>>> refs/remotes/origin/master
-change online on master at 2
-change online on master at 3:
-**********************************
-==================================
-__________________________________
-++++++++++++++++++++++++++++++++++
-change online on master at 4:
-#############################
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-change online on master at 5:
-change online on master at 6:
-***********************************
